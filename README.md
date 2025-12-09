@@ -55,6 +55,9 @@ The model was trained in **Jupyter Notebook** using the following steps:
 ```python
 joblib.dump(model, "car_price_model.pkl")
 
+## 🔗 Live Web App
+You can access the deployed Streamlit app here:
+https://madushi-96-codealpha-carpriceprediction-app-streamlit-gcdq4z.streamlit.app/
 
 Author
 
