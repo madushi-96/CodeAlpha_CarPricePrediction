@@ -51,7 +51,7 @@ The model was trained in **Jupyter Notebook** using the following steps:
 6. **Evaluate model performance**
 7. **Save trained model**
 
-### Code used to save the model:
+## Code used to save the model:
 ```python
 joblib.dump(model, "car_price_model.pkl")
 
